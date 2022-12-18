@@ -38,7 +38,7 @@
 !|http://v*-gray.toutiaovod.com
 |http://v*-default.365yg.com
 |http://v*-be-pack.pglstatp-toutiao.com
-|http://v*-novelfm.novelfmvod.com
+!|http://v*-novelfm.novelfmvod.com
 |http://p*-be-pack-sign.pglstatp-toutiao.com
 |http://sf*-be-pack.pglstatp-toutiao.com
 !|http://pgdt.gtimg.cn
