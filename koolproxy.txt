@@ -29,7 +29,10 @@
 !x------------------------------------------------------------------------------------------------------------------>
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- white rules -------------------------------------------------------
-|http://p*-ad-sign.byteimg.com
+
+|http://v*-default.365yg.com
+|http://v*-be-pack.pglstatp-toutiao.com
+|http://p*-be-pack-sign.pglstatp-toutiao.com
 @@|http://*/softdl.360tpcdn.com/
 @@|http://*.com/images/banner$domain=cncrypt.com|exp.qq.com
 @@|http://*.com/index0data/*.css
