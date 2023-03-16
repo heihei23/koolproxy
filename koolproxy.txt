@@ -1,6 +1,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
-!x  -----update[rules]: 2023-03-08 10:00
+!x  -----update[rules]: 2023-03-16 10:00
 !x  -----update[video]: 2022-08-19 17:06
 !x  -----Thanks: From lvba Rule Group
 !x  -----Thanks for help: <yiclear> <adbyby> <adm> <adblock> <adguard>
@@ -30,7 +30,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  --------------------------------------------- white rules -------------------------------------------------------
 
-!|http://v*-default.365yg.com
 |http://v*-be-pack.pglstatp-toutiao.com/*/video
 |http://p*-be-pack-sign.pglstatp-toutiao.com
 @@|http://*/softdl.360tpcdn.com/
